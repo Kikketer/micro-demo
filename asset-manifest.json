@@ -1,13 +1,13 @@
 {
   "main.css": "/micro-demo/static/css/main.2bface06.chunk.css",
-  "main.js": "/micro-demo/static/js/main.573e42ba.chunk.js",
-  "main.js.map": "/micro-demo/static/js/main.573e42ba.chunk.js.map",
+  "main.js": "/micro-demo/static/js/main.b11e9f12.chunk.js",
+  "main.js.map": "/micro-demo/static/js/main.b11e9f12.chunk.js.map",
   "runtime~main.js": "/micro-demo/static/js/runtime~main.36bb5564.js",
   "runtime~main.js.map": "/micro-demo/static/js/runtime~main.36bb5564.js.map",
-  "static/js/2.ca295297.chunk.js": "/micro-demo/static/js/2.ca295297.chunk.js",
-  "static/js/2.ca295297.chunk.js.map": "/micro-demo/static/js/2.ca295297.chunk.js.map",
+  "static/js/2.ae299b5c.chunk.js": "/micro-demo/static/js/2.ae299b5c.chunk.js",
+  "static/js/2.ae299b5c.chunk.js.map": "/micro-demo/static/js/2.ae299b5c.chunk.js.map",
   "index.html": "/micro-demo/index.html",
-  "precache-manifest.6ff354a8d317b3dad1ad1e9530a3d777.js": "/micro-demo/precache-manifest.6ff354a8d317b3dad1ad1e9530a3d777.js",
+  "precache-manifest.010ca553268abd917e08dda09421bb4f.js": "/micro-demo/precache-manifest.010ca553268abd917e08dda09421bb4f.js",
   "service-worker.js": "/micro-demo/service-worker.js",
   "static/css/main.2bface06.chunk.css.map": "/micro-demo/static/css/main.2bface06.chunk.css.map"
 }
