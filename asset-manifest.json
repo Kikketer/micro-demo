@@ -1,13 +1,14 @@
 {
-  "main.css": "/micro-demo/static/css/main.2bface06.chunk.css",
-  "main.js": "/micro-demo/static/js/main.b11e9f12.chunk.js",
-  "main.js.map": "/micro-demo/static/js/main.b11e9f12.chunk.js.map",
-  "runtime~main.js": "/micro-demo/static/js/runtime~main.36bb5564.js",
-  "runtime~main.js.map": "/micro-demo/static/js/runtime~main.36bb5564.js.map",
-  "static/js/2.ae299b5c.chunk.js": "/micro-demo/static/js/2.ae299b5c.chunk.js",
-  "static/js/2.ae299b5c.chunk.js.map": "/micro-demo/static/js/2.ae299b5c.chunk.js.map",
+  "main.css": "/micro-demo/static/css/main.02db94ec.chunk.css",
+  "main.js": "/micro-demo/static/js/main.38bcd5d2.chunk.js",
+  "main.js.map": "/micro-demo/static/js/main.38bcd5d2.chunk.js.map",
+  "static/js/1.6408c0f0.chunk.js": "/micro-demo/static/js/1.6408c0f0.chunk.js",
+  "static/js/1.6408c0f0.chunk.js.map": "/micro-demo/static/js/1.6408c0f0.chunk.js.map",
+  "runtime~main.js": "/micro-demo/static/js/runtime~main.37db0348.js",
+  "runtime~main.js.map": "/micro-demo/static/js/runtime~main.37db0348.js.map",
+  "static/media/Blue-On-White-Logo.svg": "/micro-demo/static/media/Blue-On-White-Logo.e5d2da3a.svg",
+  "static/css/main.02db94ec.chunk.css.map": "/micro-demo/static/css/main.02db94ec.chunk.css.map",
   "index.html": "/micro-demo/index.html",
-  "precache-manifest.010ca553268abd917e08dda09421bb4f.js": "/micro-demo/precache-manifest.010ca553268abd917e08dda09421bb4f.js",
-  "service-worker.js": "/micro-demo/service-worker.js",
-  "static/css/main.2bface06.chunk.css.map": "/micro-demo/static/css/main.2bface06.chunk.css.map"
+  "precache-manifest.98a00260d3cc92b7d4cbc7e36296a309.js": "/micro-demo/precache-manifest.98a00260d3cc92b7d4cbc7e36296a309.js",
+  "service-worker.js": "/micro-demo/service-worker.js"
 }
