@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "7b1bceb58eb81c815306",
-    "url": "/micro-demo/static/css/main.d39b6b53.chunk.css"
+    "revision": "b8a13d6063d990a38bdd",
+    "url": "/micro-demo/static/css/main.192ddfe8.chunk.css"
   },
   {
-    "revision": "7b1bceb58eb81c815306",
+    "revision": "b8a13d6063d990a38bdd",
     "url": "/micro-demo/static/js/main.44a07546.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/micro-demo/static/media/Blue-On-White-Logo.e5d2da3a.svg"
   },
   {
-    "revision": "1a80448f99901bba541dba2b7deb4cdb",
+    "revision": "9e90f1ec7f647e0c136992a28ae763f9",
     "url": "/micro-demo/index.html"
   }
 ];
