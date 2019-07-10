@@ -1,5 +1,5 @@
 {
-  "main.css": "/micro-demo/static/css/main.af627471.chunk.css",
+  "main.css": "/micro-demo/static/css/main.192ddfe8.chunk.css",
   "main.js": "/micro-demo/static/js/main.44a07546.chunk.js",
   "main.js.map": "/micro-demo/static/js/main.44a07546.chunk.js.map",
   "runtime~main.js": "/micro-demo/static/js/runtime~main.36bb5564.js",
@@ -7,8 +7,8 @@
   "static/js/2.89fb5f65.chunk.js": "/micro-demo/static/js/2.89fb5f65.chunk.js",
   "static/js/2.89fb5f65.chunk.js.map": "/micro-demo/static/js/2.89fb5f65.chunk.js.map",
   "index.html": "/micro-demo/index.html",
-  "precache-manifest.8f577208bdcecc6d3d0db72ece515ce6.js": "/micro-demo/precache-manifest.8f577208bdcecc6d3d0db72ece515ce6.js",
+  "precache-manifest.d5b893083a8306976b0c7ad39c33afe5.js": "/micro-demo/precache-manifest.d5b893083a8306976b0c7ad39c33afe5.js",
   "service-worker.js": "/micro-demo/service-worker.js",
-  "static/css/main.af627471.chunk.css.map": "/micro-demo/static/css/main.af627471.chunk.css.map",
+  "static/css/main.192ddfe8.chunk.css.map": "/micro-demo/static/css/main.192ddfe8.chunk.css.map",
   "static/media/Blue-On-White-Logo.svg": "/micro-demo/static/media/Blue-On-White-Logo.e5d2da3a.svg"
 }
